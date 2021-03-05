@@ -1,4 +1,4 @@
-# @xiaoluoboding's GitHub Skylines
+# @Mulander-J's GitHub Skylines
 
 My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 
@@ -15,4 +15,4 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 
 ## License
 
-MIT [@xiaoluoboding](https://github.com/xiaoluoboding)
+MIT [@Mulander-J](https://github.com/Mulander-J)
