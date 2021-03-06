@@ -2,16 +2,44 @@
 
 My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 
-## ASCII 2020
+## [2020](./Mulander-J-2020.stl)
 
-```bash 
-  @Mulander-J's 2020 GitHub Skyline              
-  https://skyline.github.com/Mulander-J/2020      
+```bash
+          @Mulander-J's 2020 GitHub Skyline          
+       ✦       ✧         ✦☽  ✧✧                     ▁    
+                  ✦              ▅            ▅     █
+       ✧  ▆    ▁    ✧   █ ✧    ▃ █   ▆ ▆ ▁  ✦ █✦    █
+          █  ▁▆█   ✦    █▁▆▄ ▁ █ █▆ ▄█ █ █    █   ▁▁█
+     ▄    █ ▂███▂       ████▇█▇█▄██▂██▂█ █▇▄▇▂█▄▄ ███
+▁▁▁▁▁█▁▁▁▁█▅█████▁▅▁▁▁▁▁████████████████▁████████▁███
+     https://skyline.github.com/Mulander-J/2020      
 ```
 
-## Stories
+## [2019](./Mulander-J-2019.stl)
 
-* [2020](./xx.stl)
+```bash
+          @Mulander-J's 2019 GitHub Skyline
+                                     ▁☽  ✧   ✦       
+  ✧                   ✦     ✦        █✦              
+    ✦                          ✦ ✦ ✦ █ ▂  ✦          
+           ✧            ✦    ✦       █ █✦        
+           ✧✧       ✦                █ █           
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁█▁█▁▁▁▁▁▁▁▁▁▁▁▁▁
+     https://skyline.github.com/Mulander-J/2019  
+```
+
+## [2018](./Mulander-J-2018.stl)
+
+```bash
+          @Mulander-J's 2018 GitHub Skyline
+         ✦    ✦     ✦   ✧       ✦   ✦  ✧ ✦▁      
+ ✦✦      ✧    ✧            ✧              █       
+✧         ✦✦     ✧                        █▁         
+  ✧                          ✧         ✧ ✧██  ✧   ✧✦ 
+    ☽           ✧           ✦  ✧          ██    ✧    
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁▁▁▁▁▁
+     https://skyline.github.com/Mulander-J/2018  
+```
 
 ## License
 
